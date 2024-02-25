@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mcbride_obwoge" target="blank"><img src="https://img.shields.io/twitter/follow/mcbride_obwoge?logo=twitter&style=for-the-badge" alt="mcbride_obwoge" /></a> </p>
 
-- 🔭 I’m currently working on **Weather app**
+- 🔭 I’m currently working on **Web3**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about **Android**
 
