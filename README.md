@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **obwogemcbride73@gmail.com**
 
-- ⚡ Fun fact **part time comedian dm for jokes ![image](https://github.com/Blacspot/Blacspot/assets/99962055/f8fb750d-5449-4532-81af-1ab81088d5fb)
-**
+- ⚡ Fun fact **part time comedian dm for jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
