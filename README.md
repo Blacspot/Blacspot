@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/mcbride_obwoge" target="blank"><img src="https://img.shields.io/twitter/follow/mcbride_obwoge?logo=twitter&style=for-the-badge" alt="mcbride_obwoge" /></a> </p>
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **Nextjs**
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Reactjs nextjs**
 
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **obwogemcbride73@gmail.com**
 
-- ⚡ Fun fact **part time comedian dm for jokes**
+- ⚡ Fun fact **a group of flamingos is called a flamboyance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
